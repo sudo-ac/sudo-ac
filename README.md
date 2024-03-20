@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudo-ac
-- 👀 I’m interested in numeric, fast computing ...
-- 🌱 I’m currently learning CGMES
+- 👀 I’m interested in power-flow, state-estimation, numeric and fast computing ...
+- 🌱 I’m currently learning all about the live
 - 💞️ I’m looking to collaborate on - not now 
 - 📫 How to reach me: ms-teams ;-)
 
